@@ -1,5 +1,5 @@
 
-var SITE_XTHOST = "https://wormps.github.io/new";
+var SITE_XTHOST = "https://wormps.github.io/pandasgame";
 window.detectLog = null;
 const _wrmxt = {
     BETAisSkinCustom(input) {
@@ -144,7 +144,7 @@ let servers = {
 
 
 async function loadUsers() {
-    await fetch("https://wormps.github.io/extension/api/users.php")
+    await fetch("https://wormps.github.io/pandasgame/api/users.php")
         .then(response => response.json())
         .then(response => {
             if (response.success) {
@@ -165,7 +165,7 @@ async function loadUsers() {
 }
 
 async function loadServers() {
-    await fetch("https://wormps.github.io/extension/api/server.php")
+    await fetch("https://wormps.github.io/pandasgame/api/server.php")
         .then(response => response.json())
         .then(response => {
             if (response.success) {
