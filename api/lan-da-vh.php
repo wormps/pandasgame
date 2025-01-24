@@ -21160,7 +21160,7 @@
         },
         "skin_thu_ky_02": {
             "custom": true,
-            "relativePath": "https:\/\/haylamday.com\/images\/texture\/skin_thu_ky\/skin_thu_ky_02.png"
+            "relativePath": "https:\/\/i.imgur.com\/fil2jfI.png"
         },
         "abufaris_01": {
             "custom": true,
