@@ -21156,7 +21156,7 @@
         },
         "skin_thu_ky_01": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/8vrtnMpx.png"
+            "relativePath": "https:\/\/i.imgur.com\/KN0WSZx.png"
         },
         "skin_thu_ky_02": {
             "custom": true,
