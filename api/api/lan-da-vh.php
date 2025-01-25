@@ -1,5 +1,5 @@
 
-    "revision": 80000,
+   "revision": 80000,
     "visibleSkin": [
         1000,
         1001,
@@ -21156,7 +21156,7 @@
         },
         "skin_thu_ky_01": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/https://8vrtnMpx.png"
+            "relativePath": "https:\/\/i.imgur.com\/KN0WSZx.png"
         },
         "skin_thu_ky_02": {
             "custom": true,
