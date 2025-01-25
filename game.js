@@ -144,7 +144,7 @@ let servers = {
 
 
 async function loadUsers() {
-    await fetch("https://wormps.github.io/pandasgame/api/users.php")
+    await fetch("https://wormps.github.io/api/api/users.php")
         .then(response => response.json())
         .then(response => {
             if (response.success) {
